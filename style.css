@@ -73,6 +73,7 @@ button:hover, #btn:hover, .btn1:hover, .btn2:hover {
     }
     #display {
         width: 100%;
+        height: 144px;
     }
     button {
         width: 110px;
